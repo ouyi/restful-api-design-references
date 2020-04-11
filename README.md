@@ -20,6 +20,7 @@
  14. [Web API Design][19] 接口就是开发人员提供的“界面”，用户体验在接口设计上同样重要，在线查看 [2012 版][20]、[2013 版][21]
  15. [架构风格与基于网络应用软件的架构设计][49] 原汁原味的博士论文，由李锟翻译，有经验的同学可以挑战一下
  16. [Microsoft REST API Guidelines][50] 微软官方的 REST API 设计指南，值得参考
+ 17. [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) Martin Fowler的文章
 
 #### 知识碎片 ####
 
