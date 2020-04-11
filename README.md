@@ -32,6 +32,7 @@
  4. [json-api][26] 对 API 应该如何利用好 JSON 的一些建议
  5. [介绍 JSON][27] 无论如何都应该读一遍
  6. [decision-graph.svg][28] 一张大图展示整个 REST API 的验证过程，及各种状态码出现的时机
+ 7. [怎样用通俗的语言解释REST，以及RESTful？](https://www.zhihu.com/question/28557115) 知乎上的相关问答
 
 #### 书籍 ####
 
